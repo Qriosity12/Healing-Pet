@@ -1,7 +1,7 @@
 # HealingPet
 
 <p align="center">
-  <img src="HealingPet/screen%20pictures/pic%20(7).jpg" alt="HealingPet Cover" width="260" />
+  <img src="./HealingPet/screenshots/cover.jpg" alt="HealingPet Cover" width="260" />
 </p>
 
 <h1 align="center">HealingPet</h1>
@@ -120,28 +120,28 @@
 
 ## 页面展示
 
-> 以下图片来自项目中的 `HealingPet/screen pictures` 文件夹。
+> 以下图片来自项目中的 `HealingPet/screenshots` 文件夹。
 
 ### 首页 / 聊天体验
 
 <p align="center">
-  <img src="HealingPet/screen%20pictures/pic%20(5).jpg" alt="聊天页1" width="230" />
-  <img src="HealingPet/screen%20pictures/pic%20(6).jpg" alt="聊天页2" width="230" />
+  <img src="./HealingPet/screenshots/chat-1.jpg" alt="聊天页1" width="230" />
+  <img src="./HealingPet/screenshots/chat-2.jpg" alt="聊天页2" width="230" />
 </p>
 
 ### 情绪记录 / 功能页面
 
 <p align="center">
-  <img src="HealingPet/screen%20pictures/pic%20(4).jpg" alt="功能页" width="230" />
+  <img src="./HealingPet/screenshots/feature-1.jpg" alt="功能页" width="230" />
 </p>
 
 ### 更多成果截图
 
 <p align="center">
-  <img src="HealingPet/screen%20pictures/pic%20(1).jpg" alt="截图5" width="180" />
-  <img src="HealingPet/screen%20pictures/pic%20(2).jpg" alt="截图6" width="180" />
-  <img src="HealingPet/screen%20pictures/pic%20(3).jpg" alt="截图7" width="180" />
-  <img src="HealingPet/screen%20pictures/pic%20(1).png" alt="截图8" width="180" />
+  <img src="./HealingPet/screenshots/gallery-1.jpg" alt="截图1" width="180" />
+  <img src="./HealingPet/screenshots/gallery-2.jpg" alt="截图2" width="180" />
+  <img src="./HealingPet/screenshots/gallery-3.jpg" alt="截图3" width="180" />
+  <img src="./HealingPet/screenshots/ui-1.png" alt="截图4" width="180" />
 </p>
 
 ---
@@ -174,7 +174,7 @@ HealingPet/
    │  ├─ AppDelegate.swift
    │  ├─ ContentView.swift
    │  └─ HealingPetApp.swift
-   └─ screen pictures/
+   └─ screenshots/
 ```
 
 ---
