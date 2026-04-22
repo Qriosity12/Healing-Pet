@@ -1,22 +1,16 @@
 # HealingPet
 
-<p align="center">
-  <img src="./HealingPet/screenshots/cover.jpg" alt="HealingPet Cover" width="260" />
-</p>
+![HealingPet Cover](HealingPet/screenshots/cover.jpg)
 
-<h1 align="center">HealingPet</h1>
+## HealingPet
 
-<p align="center">
-  一个基于 <code>SwiftUI</code> 的治愈系 iOS 电子宠物应用原型。<br/>
-  通过 <b>AI 陪伴对话</b>、<b>情绪记录</b> 与 <b>冥想 / 专注</b>，提供轻量而温柔的情绪陪伴体验。
-</p>
+一个基于 `SwiftUI` 的治愈系 iOS 电子宠物应用原型。  
+通过 **AI 陪伴对话**、**情绪记录** 与 **冥想 / 专注**，提供轻量而温柔的情绪陪伴体验。
 
-<p align="center">
-  <img alt="Platform" src="https://img.shields.io/badge/Platform-iOS-0A84FF">
-  <img alt="Swift" src="https://img.shields.io/badge/Swift-5-orange">
-  <img alt="UI" src="https://img.shields.io/badge/UI-SwiftUI-34C759">
-  <img alt="Status" src="https://img.shields.io/badge/Status-Prototype-F4B400">
-</p>
+![Platform](https://img.shields.io/badge/Platform-iOS-0A84FF)
+![Swift](https://img.shields.io/badge/Swift-5-orange)
+![UI](https://img.shields.io/badge/UI-SwiftUI-34C759)
+![Status](https://img.shields.io/badge/Status-Prototype-F4B400)
 
 ---
 
@@ -64,7 +58,7 @@
 
 ## 功能模块
 
-## 1. 陪伴聊天
+### 1. 陪伴聊天
 
 用户可以在首页与电子宠物进行对话。
 
@@ -84,7 +78,7 @@
 
 ---
 
-## 2. 情绪记录
+### 2. 情绪记录
 
 应用中提供了独立的记录页面，用于展示历史情绪信息。
 
@@ -102,16 +96,16 @@
 
 ---
 
-## 3. 放松与专注
+### 3. 放松与专注
 
 除了聊天之外，项目还加入了两个辅助治愈模块。
 
-### 冥想
+#### 冥想
 - 提供冥想引导文案
 - 使用渐变背景营造氛围
 - 预留音频播放逻辑
 
-### 番茄钟
+#### 番茄钟
 - 默认 `25` 分钟倒计时
 - 支持开始 / 停止
 - 结合宠物视觉元素增强页面趣味性
@@ -124,25 +118,20 @@
 
 ### 首页 / 聊天体验
 
-<p align="center">
-  <img src="./HealingPet/screenshots/chat-1.jpg" alt="聊天页1" width="230" />
-  <img src="./HealingPet/screenshots/chat-2.jpg" alt="聊天页2" width="230" />
-</p>
+![聊天页 1](HealingPet/screenshots/chat-1.jpg)
+
+![聊天页 2](HealingPet/screenshots/chat-2.jpg)
 
 ### 情绪记录 / 功能页面
 
-<p align="center">
-  <img src="./HealingPet/screenshots/feature-1.jpg" alt="功能页" width="230" />
-</p>
+![功能页](HealingPet/screenshots/feature-1.jpg)
 
 ### 更多成果截图
 
-<p align="center">
-  <img src="./HealingPet/screenshots/gallery-1.jpg" alt="截图1" width="180" />
-  <img src="./HealingPet/screenshots/gallery-2.jpg" alt="截图2" width="180" />
-  <img src="./HealingPet/screenshots/gallery-3.jpg" alt="截图3" width="180" />
-  <img src="./HealingPet/screenshots/ui-1.png" alt="截图4" width="180" />
-</p>
+![截图 1](HealingPet/screenshots/gallery-1.jpg)
+![截图 2](HealingPet/screenshots/gallery-2.jpg)
+![截图 3](HealingPet/screenshots/gallery-3.jpg)
+![截图 4](HealingPet/screenshots/ui-1.png)
 
 ---
 
